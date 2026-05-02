@@ -20,11 +20,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "competitions-overall-winner-of-sc24-student-cluster-competiton-tsinghua-university-team-member",
-          title: 'Overall Winner of SC24 Student Cluster Competiton, Tsinghua University Team Member',
+            },},{id: "competitions-first-prize-of-2020-chinese-physics-olympiad-in-provinces-cpho20",
+          title: 'First Prize of 2020 Chinese Physics Olympiad in Provinces (CPhO20)',
           description: "",
-          section: "Competitions",},{id: "competitions-first-prize-of-2020-chinese-physics-olympiad-in-jiangsu-province-cpho",
-          title: 'First Prize of 2020 Chinese Physics Olympiad in JiangSu Province (CPhO)',
+          section: "Competitions",},{id: "competitions-overall-winner-of-sc24-student-cluster-competiton-member-of-tsinghua-university-team",
+          title: 'Overall Winner of SC24 Student Cluster Competiton, member of Tsinghua University Team',
           description: "",
           section: "Competitions",},{id: "projects-project-1",
           title: 'project 1',
